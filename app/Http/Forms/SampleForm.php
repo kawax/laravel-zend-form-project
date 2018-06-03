@@ -10,7 +10,7 @@ class SampleForm extends ZendForm
     /**
      * Create a new form.
      *
-     * @param  null|string $name
+     * @param null|string $name
      *
      * @return void
      */
@@ -35,7 +35,6 @@ class SampleForm extends ZendForm
         ]);
 
         $this->add($name);
-
 
         $this->add([
             'type'       => Element\Email::class,
