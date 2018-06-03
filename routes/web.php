@@ -11,8 +11,8 @@
 |
 */
 
-use Illuminate\Http\Request;
 use App\Http\Forms\SampleForm;
+use Illuminate\Http\Request;
 
 Route::get('/', function () {
     $form = new SampleForm('sample');
