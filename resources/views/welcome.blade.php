@@ -61,7 +61,14 @@
         </div>
     </div>
 
-
+    <div class="card">
+        <div class="card-header">
+            Bootstrap4 View Helper
+        </div>
+        <div class="card-body">
+            {!! $form->bootstrap4horizon($form) !!}
+        </div>
+    </div>
 </div>
 </body>
 </html>
