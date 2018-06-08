@@ -66,7 +66,7 @@
             Bootstrap4 View Helper
         </div>
         <div class="card-body">
-            {!! $form->bootstrap4horizon($form) !!}
+            {{ $form->render('bootstrap4horizon') }}
         </div>
     </div>
 </div>

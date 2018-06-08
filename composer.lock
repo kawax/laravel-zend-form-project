@@ -1300,16 +1300,16 @@
         },
         {
             "name": "revolution/laravel-zend-form",
-            "version": "1.0.8",
+            "version": "1.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kawax/laravel-zend-form.git",
-                "reference": "3fbb3aa559df1bc52d2d444e6d0778ad22aabe6b"
+                "reference": "d4ccf97afeb2996fe0e91ecc2039590f78e70116"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kawax/laravel-zend-form/zipball/3fbb3aa559df1bc52d2d444e6d0778ad22aabe6b",
-                "reference": "3fbb3aa559df1bc52d2d444e6d0778ad22aabe6b",
+                "url": "https://api.github.com/repos/kawax/laravel-zend-form/zipball/d4ccf97afeb2996fe0e91ecc2039590f78e70116",
+                "reference": "d4ccf97afeb2996fe0e91ecc2039590f78e70116",
                 "shasum": ""
             },
             "require": {
@@ -1356,7 +1356,7 @@
                 "laravel",
                 "zend-form"
             ],
-            "time": "2018-06-07T09:53:46+00:00"
+            "time": "2018-06-08T03:49:45+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
