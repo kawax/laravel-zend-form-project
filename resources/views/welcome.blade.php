@@ -61,7 +61,7 @@
         </div>
     </div>
 
-    <div class="card">
+    <div class="card mt-3">
         <div class="card-header">
             Bootstrap4 View Helper
         </div>

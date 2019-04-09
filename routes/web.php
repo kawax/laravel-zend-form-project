@@ -21,6 +21,6 @@ Route::get('/', function () {
 });
 
 Route::post('/', function (Request $request) {
-    dd($request->all());
-    //    return back()->withInput();
+    //dd($request->all());
+    return back()->withInput();
 });
